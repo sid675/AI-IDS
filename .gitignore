@@ -1,0 +1,23 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+instance/
+
+# Ignore Node.js-related files
+node_modules/
+npm-debug.log
+yarn-error.log
+.env.local
+.env.development
+.env.production
+build/
+dist/
+coverage/
+
+# Ignore logs
+logs/
+*.log
